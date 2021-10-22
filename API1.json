@@ -345,7 +345,7 @@
       },
       {
          "early":"false",
-         "type":"cp",
+         "type":"mesh",
             "name":"Default To Jill",
             "icon":"https://cdn.discordapp.com/attachments/845326712338382881/899852512050446436/latest.png",
             "iconswap":"https://image.fnbr.co/outfit/5ab15c3e0499b850d8511de4/icon_192.png",
