@@ -1,6 +1,5 @@
 {
    "Database":{
-      
       "Cosmetics":[
          {
             "early":"false",
@@ -410,10 +409,8 @@
                   "pak3":"pakchunk100_s4-WindowsClient.ucas",
                   "offset3":"1163264"
                }
-         
       
       ]
-      
 
    }
 }
