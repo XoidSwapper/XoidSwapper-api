@@ -1,8 +1,7 @@
 {
-   "Database":{
-      
-      "Cosmetics":[
-         {
+   "Database" : 
+   [
+     {
             "early":"false",
          "type":"mesh",
             "name":"Frozen Red Knight To OG Ghoul Trooper",
@@ -410,10 +409,5 @@
                   "pak3":"pakchunk100_s4-WindowsClient.ucas",
                   "offset3":"1163264"
                }
-         
-      
-      ]
-      
-
-   }
+   ]
 }
